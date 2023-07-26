@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about Machine Learning, object detection, and self-driving vehicles.
 - 🤔 I’m looking for help with Arata, what do communities wish they had for their Discord Server?
 - 💬 Ask me about a time when I struggled that you are currently pushing yourself to learn. I may have been through something similar, or can at least be open about how I would approach the same (or a similar) issue.
-- 📫 How to reach me: riigess.git@gmail.com
+- 📫 How to reach me: git.riigess@gmail.com
 - 😄 Pronouns: they/them
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
