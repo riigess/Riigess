@@ -2,12 +2,12 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=riigess.riigess)
 
-- 🔭 I’m currently working on Arata, Blue-Moon, and Torch-Drive.. Plus a small hardware engineering project or two.
-- 🌱 I’m currently learning about Machine Learning, object detection, and self-driving vehicles.
-- 🤔 I’m looking for help with Arata, what do communities wish they had for their Discord Server?
-- 💬 Ask me about a time when I struggled that you are currently pushing yourself to learn. I may have been through something similar, or can at least be open about how I would approach the same (or a similar) issue.
-- 📫 How to reach me: git.riigess@gmail.com
-- 😄 Pronouns: they/them
+- 🔭 I’m currently working on my startup in the Software Engineering space. Fetchr (a REST API client, server, and automation tool), [Medialytics.app](https://github.com/medialytics-app), and an unannounced AR application are all exciting to me!
+- 🌱 I’m currently learning about Java/Kotlin RESTful APIs, iOS App Development, UI/UX design, and starting my own company that's self-funded.
+- 🤔 I’m looking for help with learning more about Natural Language Processing, what communities should I join?
+- 💬 Ask me about a time when I was excited to do something new, but knew I had never done something like that before. I think we all find creative ways to engage with new-to-you materials. :)
+- 📫 How to reach me: [austin@riigess.com](mailto:austin@riigess.com)
+- 😄 Pronouns: he/him
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```python
@@ -15,25 +15,26 @@ class SoftwareEngineer:
   def __init__(self):
     self.technologies = {
       "backend": {
-        "Python": ["discord.py", "flask-restful", "requests", "cv2", "pytorch", "tensorflow", "mysql", "google-client-api"],
+        "Python": ["discord.py", "flask-restful", "requests", "pytorch", "tensorflow", "mysql", "google-client-api"],
         "Java": ["OpenCV", "mysql", "postgresql"]
       },
       "mobileApp": {
-        native: ["iOS Development", "tvOS Development", "watchOS Development", "visionOS Development", "Linux-ROS", "Linux"]
+        native: ["iOS Development", "tvOS Development", "watchOS Development", "visionOS Development", "Linux-ROS"]
       },
       "desktopApp": {
-        native: ["macOS Development"]
+        native: ["macOS Development", "Linux"]
       },
-      "devOps": ["GCP", "Docker", "Maven", "gradle", "git", "Slack"],
+      "devOps": ["AWS", "Azure", "Docker", "GCP", "git", "gradle", "Maven", "Slack", "TeamCity"],
       "databases": ["MySQL", "PostgreSQL", "SQLite"],
-      "misc": ["open-cv", "ffmpeg"]
+      "misc": ["ffmpeg", "OpenCV"]
     }
     self.languages = ["Python", "Swift", "Java", "C++", "HTML", "CSS", "JavaScript"]
     self.tools = ["Xcode", "VSCode", "Docker", "DataGrip"]
     self.architecture = ["Single page applications", "event-driven", "design system pattern"]
 
   def hello(self):
-    print("Hello, I hope you enjoy what you see! Please, let me know if you have any questions, comments, or feedback.")
+    print("Hello, I hope you enjoy what you see!")
+    print("Please, let me know if you have any questions, comments, or feedback. :)")
 
 me = SoftwareEngineer()
 me.hello()
