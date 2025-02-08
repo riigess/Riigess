@@ -1,10 +1,11 @@
-### Hi there! I'm Riigess /Ree-j-eh-s/.
+### Hi there! I'm Austin!
+Here's how to pronounce my username: Riigess /Ree-j-eh-s/.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=riigess.riigess)
 
-- 🔭 I’m currently working on my startup in the Software Engineering space. Fetchr (a REST API client, server, and automation tool), [Medialytics.app](https://github.com/medialytics-app), and an unannounced AR application are all exciting to me!
-- 🌱 I’m currently learning about Java/Kotlin RESTful APIs, iOS App Development, UI/UX design, and starting my own company that's self-funded.
-- 🤔 I’m looking for help with learning more about Natural Language Processing, what communities should I join?
+- 🔭 I’m currently working at a major technology company.
+- 🌱 I’m currently learning about Java/Kotlin RESTful APIs, iOS App Development, UI/UX design, and C#/.NET frameworks.
+- 🤔 I’m looking for help with learning more about iOS and macOS development, what additional communities should I join?
 - 💬 Ask me about a time when I was excited to do something new, but knew I had never done something like that before. I think we all find creative ways to engage with new-to-you materials. :)
 - 📫 How to reach me: [austin@riigess.com](mailto:austin@riigess.com)
 - 😄 Pronouns: he/him
@@ -41,13 +42,29 @@ me.hello()
 ```
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-Informational?style=flat&logo=linux&logoColor=White&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Mac-Informational?style=flat&logo=macos&logoColor=White&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-MySQL-infomrational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+Preferred OSes/Distros: 
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+
+Editors: 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)
+
+Languages: 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
+
+Other Tools: 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
