@@ -1,8 +1,8 @@
 ### Hi there! I'm Austin!
-Here's how to pronounce my username: Riigess /Ree-j-eh-s/.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=riigess.riigess)
 
+Here's how to pronounce my username: Riigess /Ree-j-eh-s/.
 - 🔭 I’m currently working at a major technology company.
 - 🌱 I’m currently learning about Java/Kotlin RESTful APIs, iOS App Development, UI/UX design, and C#/.NET frameworks.
 - 🤔 I’m looking for help with learning more about iOS and macOS development, what additional communities should I join?
