@@ -52,7 +52,6 @@ Editors:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
-![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)
 
 Languages: 
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
@@ -69,4 +68,6 @@ Other Tools / Technologies:
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
 
 # Oh, yeah
-AI is about as useful as a burnt slice of bread. Copilot, ChatGPT, etc, could all die off and actively benefit humanity in a week. Just sayin'.
+I am strongly anti-Generative AI. It is about as useful as a slice of burnt bread. Maybe the smell is a sign you are having a seisure, maybe you are actually burning the environment with each query with the same environment impact of a full charge of the highest Wh of the latest iPhone (in application resources alone, not to mention the constant uptime, the lack of shared resources, and the lack of comprehension of how the technology reasonably functions - 20+ years after inception).
+
+Congrats. Using AI is a new exploitative labor practice. *grumble grumble* I have now switched mostly to [codeberg](https://codeberg.org/fuji).
