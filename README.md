@@ -68,6 +68,4 @@ Other Tools / Technologies:
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
 
 # Oh, yeah
-I am strongly anti-Generative AI. It is about as useful as a slice of burnt bread. Maybe the smell is a sign you are having a seisure, maybe you are actually burning the environment with each query with the same environment impact of a full charge of the highest Wh of the latest iPhone (in application resources alone, not to mention the constant uptime, the lack of shared resources, and the lack of comprehension of how the technology reasonably functions - 20+ years after inception).
-
-Congrats. Using AI is a new exploitative labor practice. *grumble grumble* I have now switched mostly to [codeberg](https://codeberg.org/fuji).
+I am mirroring my public content to [codeberg](https://codeberg.org/fuji) through GitHub workflows going forward. Archived projects will be transferred over manually, and re-archived.
