@@ -13,7 +13,7 @@ class SoftwareEngineer:
   def __init__(self):
     self.technologies = {
       "backend": {
-        "Python": ["discord.py", "flask-restful", "requests", "pytorch", "tensorflow", "mysql", "google-client-api"],
+        "Python": ["flask-restful", "requests", "pytorch", "tensorflow", "mysql", "google-client-api"],
         "Java": ["OpenCV", "mysql", "postgresql"],
         "Swift": ["UIKit", "SwiftUI", "Swift Data", "Core Data", "SceneKit", "ARKit"]
       },
