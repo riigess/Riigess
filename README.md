@@ -2,44 +2,58 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=riigess.riigess)
 
-- 🌱 I’m currently learning about low-level system design. A bit of a different take from where my last commit says I was. (Ironic, isn't it?)
-- 🤔 I’m looking for help with learning more about iOS and macOS development, what additional communities should I join?
-- 👀 Looking for cool opportunities to build something awesome. I'm not about that HomeLab life, but I do want to prevent society from using excessively more power than we need to. (Limited resources, environmentalism, and all that.)
-- 😄 Pronouns: he/him
+- I’m currently learning about low-level system design.
+- I’m looking for help with learning more about Objective-C and C++ development. Looking for communities to join for iOS, macOS, and kernel-level development.
+- Looking for cool opportunities to build something awesome. I'm not about that HomeLab life, but I do want to prevent society from using excessively more power than we need to. (Limited resources, environmentalism, and all that.)
+- Pronouns: he/him, open to they/them
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-```python
-class SoftwareEngineer:
-  def __init__(self):
-    self.technologies = {
-      "backend": {
-        "Python": ["flask-restful", "requests", "pytorch", "tensorflow", "mysql", "google-client-api"],
-        "Java": ["OpenCV", "mysql", "postgresql"],
-        "Swift": ["UIKit", "SwiftUI", "Swift Data", "Core Data", "SceneKit", "ARKit"]
-      },
-      "mobileApp": {
-        native: ["iOS Development", "tvOS Development", "watchOS Development", "visionOS/xrOS Development"]
-      },
-      "desktopApp": {
-        native: ["macOS Development", "Linux"]
-      },
-      "devOps": ["AWS", "Azure", "Docker", "GCP", "git", "gradle", "Maven", "Slack", "TeamCity"],
-      "databases": ["MySQL", "PostgreSQL", "SQLite"],
-      "misc": ["ffmpeg", "OpenCV"]
+### A little more about me...
+```swift
+enum PlatformPreference: String {
+    case Desktop = "Desktop"
+    case Mobile = "Mobile"
+    case ALL = "ALL"
+}
+
+enum PlatformChooser: String {
+    case Mac = "Darwin"
+    case Windows = "NT"
+    case Linux = "Linux" // 🐧
+}
+
+extension String {
+    func fromBase64() -> String? {
+        guard let data = Data(base64Encoded: self) else {
+            return nil
+        }
+        return String(data: data, encoding: .utf8)
     }
-    self.languages = ["Python", "Swift", "Java", "C++", "HTML", "CSS", "JavaScript"]
-    self.tools = ["Xcode", "VSCode", "Docker", "DataGrip"]
-    self.architecture = ["Single page applications", "event-driven", "design system pattern"]
+}
 
-  def hello(self):
-    print("Hello, I hope you enjoy what you see!")
-    print("Please, let me know if you have any questions, comments, or feedback.")
+enum DevOpsTools {
+    case AWS, Azure, DigitalOcean, GCP
+    case Docker, containerd, Colima, Apple/Container
+    case k8s, k3s
+}
 
-me = SoftwareEngineer()
-me.hello()
+struct SoftwareEngineer {
+    let name = "Austin"
+    let progammingLanguages = [ "Python", "Java", "Kotlin", "Swift" ] //Learning Objective-C, C, and C++
+    let developmentPreference:PlatformPreference = .ALL
+    let platformDevPreference:[PlatformChooser] = [ .Mac, .Linux]
+    let tools:String = String("WyJWU0NvZGUiLCAiUHVsc2FyIiwgIlplZCIsICJYY29kZSIsICJEb2NrZXIiXQ==").fromBase64()!
+    // tools = "[\"VSCode\", \"Pulsar\", \"Zed\", \"Xcode\", \"Docker\"]"
+
+    let devOpsToolsUsed:DevOpsTools = [.AWS, .Azure, .DigitalOcean, .GCP, .Docker, .Colima]
+}
+
+let swe_self = SoftwareEngineer()
+print("Hello! I'm \(swe_self.name)!")
+print("I'm learning C and C++, focusing on working with Python and Swift currently.")
+print("I currently use \(swe_self.tools), and would love to find new tools to use.") 
 ```
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 Preferred OSes/Distros: 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
